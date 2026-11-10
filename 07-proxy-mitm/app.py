@@ -3,7 +3,7 @@ import requests
 
 app = Flask(__name__)
 
-TARGET_DMZ = "https://servidor-web-dmz-dcogollo.onrender.com"
+TARGET_DMZ = "https://servidor-web-dmz-fdmaturanac.onrender.com"
 
 @app.route('/', defaults={'path': ''}, methods=['GET', 'POST'])
 @app.route('/<path:path>', methods=['GET', 'POST'])
