@@ -1,6 +1,6 @@
 #!/bin/sh
 
-TARGET="https://servidor-web-dmz-dcogollo.onrender.com"
+TARGET="https://servidor-web-dmz-fdmaturanac.onrender.com"
 RUTAS="/admin /config.php /login /secret /backup.zip /index.html"
 
 echo "=== INICIANDO ENUMERACION DE RUTAS EN LA DMZ ==="
